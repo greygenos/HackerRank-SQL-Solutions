@@ -1,0 +1,6 @@
+/*
+Working Platform:- DB2, MySQL, Oracle, MS SQL Server
+*/
+SELECT COUNT(DISTRICT)
+FROM CITY
+WHERE POPULATION > 100000;

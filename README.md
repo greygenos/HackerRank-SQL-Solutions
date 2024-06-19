@@ -1,5 +1,3 @@
-
-
 <p align="center">  
 	<br>
 	<a href="[https://www.hackerrank.com/profile/genosarey16"]
@@ -93,12 +91,3 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |:------:|:----------------------------------------------------------------------------------:|:--------------------------------------------------:|
 |    1   | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](ADVANCE%20JOIN/SQL%20PROJECT%20PLANNING.sql) |
 |    2   | [Placements](https://www.hackerrank.com/challenges/placements/problem)             | [SQL](ADVANCE%20JOIN/Placements.sql)               |
-
-## References
-
-- [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
-- [Variables in MySQL](https://stackoverflow.com/a/11754790)
-- [Median in MySQL](https://stackoverflow.com/a/7263925)
-
-## License
-This repository is licensed under MIT License - see [License](LICENSE.md) for more details

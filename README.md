@@ -72,7 +72,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 17| [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2020.sql) |
 
 
-### Basic Join
+### Basic Join Challenges
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
